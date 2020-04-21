@@ -1,1 +1,1 @@
-Sitemap: https://jpspadaro.github.io/SUNYOCCArchTest//sitemap.xml
+Sitemap: https://jpspadaro.github.io/SUNYOCCArchTest/https://jpspadaro.github.io/SUNYOCCArchTest/sitemap.xml
