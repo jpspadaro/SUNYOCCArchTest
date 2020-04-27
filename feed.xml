@@ -5,9 +5,53 @@
     <description></description>
     <link>https://sunyoccarchitecture.tk/</link>
     <atom:link href="/https://sunyoccarchitecture.tk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Apr 2020 11:53:55 -0400</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2020 11:53:55 -0400</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2020 13:25:16 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 13:25:16 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Tim</title>
+        <description>&lt;p&gt;layout: post
+title: “Tim”
+date: 2017-10-21
+description: Perspectives
+image: “/assets/images/Tim.jpg”
+author: Tim
+tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;tim&quot;&gt;Tim&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
+        <link>/https://sunyoccarchitecture.tk/Tim/</link>
+        <guid isPermaLink="true">/https://sunyoccarchitecture.tk/Tim/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Alan</title>
+        <description>&lt;p&gt;layout: post
+title: “Alan”
+date: 2017-10-21
+description: Perspectives
+image: “/assets/images/Alan.png”
+author: Alan
+tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;alan&quot;&gt;Alan&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
+        <link>/https://sunyoccarchitecture.tk/Alan/</link>
+        <guid isPermaLink="true">/https://sunyoccarchitecture.tk/Alan/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Spencer Vono [Ann Davis Award Recipient]</title>
