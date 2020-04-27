@@ -5,8 +5,8 @@
     <description></description>
     <link>https://sunyoccarchitecture.tk/</link>
     <atom:link href="/https://sunyoccarchitecture.tk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Apr 2020 13:28:37 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2020 13:28:37 -0400</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2020 13:42:21 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 13:42:21 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,6 +18,45 @@
         <guid isPermaLink="true">/https://sunyoccarchitecture.tk/Tim/</guid>
         
         <category>Tim</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>May</title>
+        <description>
+</description>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
+        <link>/https://sunyoccarchitecture.tk/May/</link>
+        <guid isPermaLink="true">/https://sunyoccarchitecture.tk/May/</guid>
+        
+        <category>May</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lexi</title>
+        <description>
+</description>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
+        <link>/https://sunyoccarchitecture.tk/Lexi/</link>
+        <guid isPermaLink="true">/https://sunyoccarchitecture.tk/Lexi/</guid>
+        
+        <category>Lexi</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bogden</title>
+        <description>
+</description>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 -0400</pubDate>
+        <link>/https://sunyoccarchitecture.tk/Bogden/</link>
+        <guid isPermaLink="true">/https://sunyoccarchitecture.tk/Bogden/</guid>
+        
+        <category>Bogden</category>
         
         
       </item>
